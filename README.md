@@ -4,7 +4,8 @@ MediFinder, dünya genelinde kullanıcıları güvenilir sağlık profesyoneller
 
 ## 📱 Ekran Görüntüleri
 
-> ⚠️ Video ./screenshots/kayit.webm dosya yolundadır.
+> ⚠️ Video ./screenshots/kayit.mp4 dosya yolundadır ve drive'dan da ulaşabilirsiniz.
+> [Video İçin Tıklayınız](https://drive.google.com/file/d/1MjxNqm7VtH-PZTcp8krzIeG5Of2Fe5T1/view?usp=sharing)
 
 <img src="./screenshots/provider-list.png" width="300" alt="Provider List" />
 <img src="./screenshots/provider-details.png" width="300" alt="Provider Details" />
