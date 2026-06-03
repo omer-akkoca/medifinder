@@ -1,0 +1,16 @@
+export const categories = [
+  { label: 'Kardiyoloji', value: 'cardiology' },
+  { label: 'Dermatoloji', value: 'dermatology' },
+  { label: 'Nöroloji', value: 'neurology' },
+  { label: 'Pediatri', value: 'pediatrics' },
+  { label: 'Ortopedi', value: 'orthopedics' },
+  { label: 'Jinekoloji', value: 'gynecology' },
+  { label: 'Psikiyatri', value: 'psychiatry' },
+  { label: 'Endokrinoloji', value: 'endocrinology' },
+  { label: 'Diş Hekimliği', value: 'dentistry' },
+  { label: 'Göz Hastalıkları', value: 'ophthalmology' },
+  { label: 'Fizyoterapi', value: 'physiotherapy' },
+  { label: 'Veterinerlik', value: 'veterinary' },
+  { label: 'Genel Tıp', value: 'general_medicine' },
+  { label: 'Hastane', value: 'hospital' },
+];

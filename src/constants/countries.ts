@@ -1,0 +1,17 @@
+export const countries = [
+  { label: 'Türkiye', value: 'turkey' },
+  { label: 'Almanya', value: 'germany' },
+  { label: 'Fransa', value: 'france' },
+  { label: 'İngiltere', value: 'united_kingdom' },
+  { label: 'Amerika Birleşik Devletleri', value: 'united_states' },
+  { label: 'Kanada', value: 'canada' },
+  { label: 'Avustralya', value: 'australia' },
+  { label: 'İspanya', value: 'spain' },
+  { label: 'İtalya', value: 'italy' },
+  { label: 'Hollanda', value: 'netherlands' },
+  { label: 'Belçika', value: 'belgium' },
+  { label: 'İsviçre', value: 'switzerland' },
+  { label: 'İsveç', value: 'sweden' },
+  { label: 'Norveç', value: 'norway' },
+  { label: 'Danimarka', value: 'denmark' },
+];
